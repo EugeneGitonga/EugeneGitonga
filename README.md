@@ -7,7 +7,7 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 [<img align="left" alt="holisitc_developer | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="holisitc_developer | Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
-
+[<img align="left" alt="holisitc_developer | Medium" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]
 <br />
 
 ## Languages And Technologies :
