@@ -16,3 +16,6 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 
 ## Github Stats
 ![Eugene Gitonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneGitonga&layout=compact)](https://github.com/EugeneGitonga/github-readme-stats&theme=radical)
