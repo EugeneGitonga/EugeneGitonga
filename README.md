@@ -11,7 +11,5 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 
 
 ## Publications
-Predicting Rainfall Through Weather Balloons Data and Machine
-Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/
-Artificial Intelligence for Spy Craft : Intelligence Community
-Insights. https://medium.com/@eugenegitongamuiru/researchon-artificial-intelligence-for-the-spy-craft-intelligencecommunity-insights-1c510f1c85ed
+* Predicting Rainfall Through Weather Balloons Data and Machine Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
+* Artificial Intelligence for Spy Craft : Intelligence Community Insights. https://medium.com/@eugenegitongamuiru/researchon-artificial-intelligence-for-the-spy-craft-intelligencecommunity-insights-1c510f1c85ed
