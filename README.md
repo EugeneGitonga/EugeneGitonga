@@ -3,4 +3,15 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 
 ![Git](https://user-images.githubusercontent.com/70195777/174910785-3bf5fead-3300-48b4-8672-d80a7ab625f4.gif)
 
-## Skills And Technologies
+## Connect with Me
+
+
+
+## Languages And Technologies
+
+
+## Publications
+Predicting Rainfall Through Weather Balloons Data and Machine
+Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/
+Artificial Intelligence for Spy Craft : Intelligence Community
+Insights. https://medium.com/@eugenegitongamuiru/researchon-artificial-intelligence-for-the-spy-craft-intelligencecommunity-insights-1c510f1c85ed
