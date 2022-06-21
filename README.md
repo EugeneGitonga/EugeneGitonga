@@ -15,4 +15,4 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 * Artificial Intelligence for Spy Craft : Intelligence Community Insights. https://medium.com/@eugenegitongamuiru/researchon-artificial-intelligence-for-the-spy-craft-intelligencecommunity-insights-1c510f1c85ed
 
 ## Github Stats
-![Eugene Gitonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true)
+![Eugene Gitonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
