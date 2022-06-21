@@ -3,9 +3,12 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 
 ![Git](https://user-images.githubusercontent.com/70195777/174910785-3bf5fead-3300-48b4-8672-d80a7ab625f4.gif)
 
-## Connect with Me :
+## Connect with Me I'm An Awesome guy :
+[<img align="left" alt="holisitc_developer | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
-
+<br />
 
 ## Languages And Technologies :
 
@@ -17,5 +20,5 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 ## Github Stats
 ![Eugene Gitonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
 
-## Top Languages
+## Languages Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneGitonga&layout=compact)](https://github.com/EugeneGitonga/github-readme-stats&theme=radical)
