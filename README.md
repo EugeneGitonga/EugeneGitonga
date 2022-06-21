@@ -4,7 +4,7 @@ It's Eugene Gitonga, a team oriented individual who's open to learn new technolo
 ![Git](https://user-images.githubusercontent.com/70195777/174910785-3bf5fead-3300-48b4-8672-d80a7ab625f4.gif)
 
 ## Connect with Me :
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=eugenegitongamuiru)](https://medium.com/@eugenegitongamuiru)
+
 
 
 ## Languages And Technologies :
