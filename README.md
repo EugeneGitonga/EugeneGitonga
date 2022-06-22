@@ -12,7 +12,7 @@ Eugene is a team oriented person who's Open to learn new technologies and cultur
 <br/>
 
 ## Languages And Technologies :
-<img align="left" alt="holisitc_developer | Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+<img align="left" alt="holisitc_developer | Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -20,6 +20,7 @@ Eugene is a team oriented person who's Open to learn new technologies and cultur
 <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="holisitc_developer | Postman" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"/>
 <br/>
 
 ## Publications :
