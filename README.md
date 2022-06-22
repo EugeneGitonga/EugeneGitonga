@@ -1,7 +1,7 @@
 ## About Me
 * Eugene is a team oriented person who's Open to learn new technologies and cultures😄. He has a great interest in Innovation and a strong believer that technology is the solution to all problems. He's passionate about Software Engineering and Machine Learning and proficient in Data Structures and Algorithms. He has a good grasp in Java, C#, Python, Prolog and SQL✍.
 
-<img align ="right" ![Git](https://user-images.githubusercontent.com/70195777/174910785-3bf5fead-3300-48b4-8672-d80a7ab625f4.gif width="500" height="320" />
+![Git](https://user-images.githubusercontent.com/70195777/174910785-3bf5fead-3300-48b4-8672-d80a7ab625f4.gif
 
 ## Connect with Me :
 
