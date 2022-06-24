@@ -6,11 +6,10 @@ Eugene is a team oriented person who's Open to learn new technologies and cultur
 
 ## Connect with Me :
 
-<img align="left" alt="holisitc_developer | GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+[<img align="left" alt="holisitc_developer | GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>()]
 <img align="left" alt="holisitc_developer | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="holisitc_developer | Gmail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 <img align="left" alt="holisitc_developer | Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <br/>
 
