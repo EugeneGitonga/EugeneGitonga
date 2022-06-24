@@ -5,7 +5,7 @@ Eugene is a team oriented person who's Open to learn new technologies and cultur
 ![IMG_20220624_203013_511](https://user-images.githubusercontent.com/70195777/175613292-72e2e23d-db7c-4940-a581-bfa9620a34b9.jpg)
 
 ## Connect with Me :
-<a href ="  " >
+<a href ="https://github.com/EugeneGitonga" >
 <img align="left" alt="holisitc_developer | GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
 <a href ="  " >
