@@ -14,6 +14,9 @@ Eugene is a team oriented person who's Open to learn new technologies and cultur
 <a href ="https://medium.com/@eugenegitongamuiru" >
 <img align="left" alt="holisitc_developer | Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
+<a href =" " >
+<img align="left" alt="holisitc_developer | StackOverflow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
 
 <br/>
 
