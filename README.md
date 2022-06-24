@@ -11,9 +11,6 @@ Eugene is a team oriented person who's Open to learn new technologies and cultur
 <a href ="https://www.linkedin.com/mwlite/in/eugene-gitonga-b29730163" >
 <img align="left" alt="holisitc_developer | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href ="  " >
-<img align="left" alt="holisitc_developer | Gmail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-</a>
 <a href ="https://medium.com/@eugenegitongamuiru" >
 <img align="left" alt="holisitc_developer | Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
