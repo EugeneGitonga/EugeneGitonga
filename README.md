@@ -30,6 +30,7 @@ Eugene is a team oriented person who's Open to learn new technologies and cultur
 * Software Engineering
 * Artificial Intelligence.
 * Data Engineering.
+* Cloud Computing. 
 
 ## Github Stats
 ![Eugene Gitonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
