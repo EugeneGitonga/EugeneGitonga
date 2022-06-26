@@ -2,7 +2,7 @@
 Eugene is a team oriented person who's Open to learn new technologies and cultures😄. He has a great interest in Innovation and a strong believer that technology is the solution to all problems. He's passionate about Software Engineering and Machine Learning also
  proficient in Data Structures and Algorithms. He has a good grasp in Java, C#, Python, Prolog and SQL✍.
 
-![IMG_20220624_203013_511](https://user-images.githubusercontent.com/70195777/175613292-72e2e23d-db7c-4940-a581-bfa9620a34b9.jpg)
+![IMG_20220627_022653_452](https://user-images.githubusercontent.com/70195777/175838524-a7d6e175-f872-4ce7-9ae0-125599730363.jpg)
 
 ## Connect with Me :
 <a href ="https://github.com/EugeneGitonga" >
