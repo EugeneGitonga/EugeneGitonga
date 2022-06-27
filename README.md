@@ -1,4 +1,4 @@
-ni## About Me
+## About Me
 Eugene is a team oriented person who's open to learn new technologies and cultures😄. He has a great interest in Innovation and a strong believer that technology is the solution to all problems. He's passionate about Software Engineering and Machine Learning also
  proficient in Data Structures and Algorithms. He has a good grasp in Java, C#, Python, Prolog and SQL✍.He's a Champion of Agile methodologies as a new way of quick delivery of quality products using best practices.
 
