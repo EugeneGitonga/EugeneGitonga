@@ -37,7 +37,6 @@ Eugene is a team oriented person who's open to learn new technologies and cultur
 ## Interests
 * Software Engineering
 * Artificial Intelligence.
-* Big Data Engineering.
 * Cloud Computing. 
 
 ## Github Stats
