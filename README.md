@@ -43,7 +43,7 @@
 * Cloud Computing. 
 
 ## Github Stats
-![Eugene GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
+![Eugene Github stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EugeneGitonga&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Languages Stats
