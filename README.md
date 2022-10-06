@@ -2,7 +2,7 @@
 * Eugene is a team oriented person who's open to learn new technologies and cultures😄 
 * He has a great interest in Innovation and a strong believer that technology is the solution to all problems. 
 * He's passionate about Software Engineering and Machine Learning and also proficient in Data Structures and Algorithms. 
-* He has a good grasp in Java, C#, Python, Prolog and SQL✍ 
+* He has a good grasp in Java, C#, Python, SQL, CI/CD, Docker, Unit/Integration testing (TDD) - JUnit, Jenkins, RestAPI's, Postman API, JSON, Git and Jira.  
 * He's a Champion of Agile Methodologies as a new way of Quick delivery of Quality products using best practices.
 
 ![IMG_20220627_022653_452](https://user-images.githubusercontent.com/70195777/175838524-a7d6e175-f872-4ce7-9ae0-125599730363.jpg)
