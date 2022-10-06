@@ -1,5 +1,5 @@
 ## About Me
-* Eugene is a Team-oriented person who's open to learn new technologies and cultures😄 
+* Eugene is a team-oriented person who's open to learn new technologies and cultures😄 
 * He has a great interest in Innovation and a strong believer that technology is the solution to all problems when used in an efficient, reliable and on a scalable approach. 
 * He's passionate about Software Engineering, Machine Learning, Containerization and Cloud technologies. 
 * He has a good grasp in Java, C#, Python, SQL, CI/CD, Docker, Unit/Integration testing (TDD) - JUnit, Jenkins, RestAPI's, Postman API, JSON, Git and Jira.  
