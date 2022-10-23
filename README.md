@@ -1,5 +1,5 @@
 ### About Me
-* Passionate about Software Engineering, Data Structures & Algorithms, ML, Containerization & Cloud. 
+* Passionate about Software Engineering, DSA, ML & Cloud. 
 * Good grasp in JavaEE & JavaSE, C#, Python, SQL, CI/CD, Docker, Unit testing (TDD) - JUnit, Jenkins, Springboot, LinuxBash, SSH, AWS Beanstalk, RestAPI's, Postman API, JSON, Git and Jira. 
 * Champion of Agile Methodologies as a new way of Quick delivery of Quality products using best practices.
 
