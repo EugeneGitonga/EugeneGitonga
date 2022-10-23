@@ -1,5 +1,6 @@
 ### About Me
-* Passionate about Software Engineering, Machine Learning, Containerization & Cloud. Good grasp in JavaEE & JavaSE, C#, Python, SQL, CI/CD, Docker, Unit testing (TDD) - JUnit, Jenkins, Springboot, LinuxBash, SSH, AWS Beanstalk, RestAPI's, Postman API, JSON, Git and Jira. 
+* Passionate about Software Engineering,Data Structures & Algorithms, ML,Containerization & Cloud. 
+* Good grasp in JavaEE & JavaSE, C#, Python, SQL, CI/CD, Docker, Unit testing (TDD) - JUnit, Jenkins, Springboot, LinuxBash, SSH, AWS Beanstalk, RestAPI's, Postman API, JSON, Git and Jira. 
 * Champion of Agile Methodologies as a new way of Quick delivery of Quality products using best practices.
 
 ![IMG_20220627_022653_452](https://user-images.githubusercontent.com/70195777/175838524-a7d6e175-f872-4ce7-9ae0-125599730363.jpg)
@@ -35,9 +36,8 @@
 * Artificial Intelligence for Spy Craft : Intelligence Community Insights. https://medium.com/@eugenegitongamuiru/researchon-artificial-intelligence-for-the-spy-craft-intelligencecommunity-insights-1c510f1c85ed
 
 ## Interests
-* Software Engineering
-* Artificial Intelligence.
-* Cloud Computing. 
+* Software Dev.
+* Cloud & AI. 
 
 ## Github Stats
 ![Eugene Github stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
