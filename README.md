@@ -1,5 +1,5 @@
 ### About Me
-* Passionate about Software Engineering, Machine Learning, Containerization and Cloud technologies. Good grasp in Java, C#, Python, SQL, CI/CD, Docker, Unit/Integration testing (TDD) - JUnit, Jenkins, RestAPI's, Postman API, JSON, Git and Jira. Champion of Agile Methodologies as a new way of Quick delivery of Quality products using best practices.
+* Passionate about Software Engineering, Machine Learning, Containerization & Cloud technologies. Good grasp in JavaEE & JavaSE, C#, Python, SQL, CI/CD, Docker, Unit/Integration testing (TDD) - JUnit, Jenkins, Springboot, LinuxBash, SSH, AWS Beanstalk, RestAPI's, Postman API, JSON, Git and Jira. Champion of Agile Methodologies as a new way of Quick delivery of Quality products using best practices.
 
 ![IMG_20220627_022653_452](https://user-images.githubusercontent.com/70195777/175838524-a7d6e175-f872-4ce7-9ae0-125599730363.jpg)
 
