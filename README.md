@@ -1,7 +1,9 @@
 ### About Me
-* Passionate about Software Engineering, DSA, ML & Cloud. 
-* Good grasp in JavaEE & JavaSE, C#, Python, SQL, CI/CD, Docker, Unit testing (TDD) - JUnit, Jenkins, Springboot, LinuxBash, SSH, AWS Beanstalk, RestAPI's, Postman API, JSON, Git and Jira. 
-* Champion of Agile Methodologies as a new way of Quick delivery of Quality products using best practices.
+Passionate about solving real-world problems in an efficient, analytical, reliable, strategic and scalable approach through cutting-edge technology and people empowerment.
+
+Blossom in a multifaceted and rapidly changing environment. Champion of agile methodologies as a new way of quick delivery of quality products using best practices.
+
+Ultimately, I strive to build meaningful relationships within the business ecosystem to create value and lasting change through collaborations and partnerships across diverse sets of stakeholders. I strongly advocate for customer centricity!!
 
 ![IMG_20220627_022653_452](https://user-images.githubusercontent.com/70195777/175838524-a7d6e175-f872-4ce7-9ae0-125599730363.jpg)
 
