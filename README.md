@@ -38,8 +38,9 @@ Ultimately, I strive to build meaningful relationships within the business ecosy
 * Artificial Intelligence for Spy Craft : Intelligence Community Insights. https://medium.com/@eugenegitongamuiru/researchon-artificial-intelligence-for-the-spy-craft-intelligencecommunity-insights-1c510f1c85ed
 
 ## Interests
-* Software Dev.
-* Cloud & AI. 
+* Software Project Management 
+* Product Management
+* Industry 4.0 Technologies 
 
 ## Github Stats
 ![Eugene Github stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
