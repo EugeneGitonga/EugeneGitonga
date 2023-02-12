@@ -35,7 +35,6 @@ Ultimately, I strive to build meaningful relationships within the business ecosy
 
 ## Publications :
 * Predicting Rainfall Through Weather Balloons Data and Machine Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
-* Artificial Intelligence for Spy Craft : Intelligence Community Insights. https://medium.com/@eugenegitongamuiru/researchon-artificial-intelligence-for-the-spy-craft-intelligencecommunity-insights-1c510f1c85ed
 
 ## Interests
 * Software Project Management 
