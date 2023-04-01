@@ -5,7 +5,7 @@ Blossom in a multifaceted and rapidly changing environment. Champion of agile me
 
 Ultimately, I strive to build meaningful relationships within the business ecosystem to create value and lasting change through collaborations and partnerships across diverse sets of stakeholders. I strongly advocate for customer centricity!!
 
-![IMG_20220627_022653_452](https://user-images.githubusercontent.com/70195777/175838524-a7d6e175-f872-4ce7-9ae0-125599730363.jpg)
+![1676832599010](https://user-images.githubusercontent.com/70195777/229319128-f43918a6-194d-4b07-9db8-a438482f1a2f.jpg)
 
 ## Connect with Me :
 <a href ="https://github.com/EugeneGitonga" >
