@@ -37,8 +37,8 @@ Ultimately, I strive to build meaningful relationships within the business ecosy
 * Predicting Rainfall Through Weather Balloons Data and Machine Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
 
 ## Interests
-* Software Project Management 
-* Product Management
+* AI & Software Engineering 
+* Software Product/Project Management
 * Industry 4.0 Technologies 
 
 ## Github Stats
