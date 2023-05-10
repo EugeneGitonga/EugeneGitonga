@@ -1,6 +1,7 @@
+### About Me
+
 ![1676832599010](https://user-images.githubusercontent.com/70195777/229319128-f43918a6-194d-4b07-9db8-a438482f1a2f.jpg)
 
-### About Me
 Passionate about solving real-world problems in an efficient, analytical, reliable, strategic and scalable approach through cutting-edge 
 
 Champion of agile methodologies as a new way of quick delivery of quality products using best practices. 
@@ -73,8 +74,8 @@ Achievements🏆 : -
 * Predicting Rainfall Through Weather Balloons Data and Machine Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
 
 ## Interests
-* AI & Software Engineering 
-* Software Product/Project Management
+* Software QA Engineering
+* Software Product Management
 * Industry 4.0 Technologies 
 
 ## Github Stats
