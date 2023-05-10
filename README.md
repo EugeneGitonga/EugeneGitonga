@@ -1,11 +1,47 @@
-### About Me
-Passionate about solving real-world problems in an efficient, analytical, reliable, strategic and scalable approach through cutting-edge technology and people empowerment.
-
-Blossom in a multifaceted and rapidly changing environment. Champion of agile methodologies as a new way of quick delivery of quality products using best practices.
-
-Ultimately, I strive to build meaningful relationships within the business ecosystem to create value and lasting change through collaborations and partnerships across diverse sets of stakeholders. I strongly advocate for customer centricity!!
-
 ![1676832599010](https://user-images.githubusercontent.com/70195777/229319128-f43918a6-194d-4b07-9db8-a438482f1a2f.jpg)
+
+### About Me
+Passionate about solving real-world problems in an efficient, analytical, reliable, strategic and scalable approach through cutting-edge 
+
+Champion of agile methodologies as a new way of quick delivery of quality products using best practices. 
+
+Ultimately, strive to build meaningful relationships within the business ecosystem to create value and lasting change through collaborations and partnerships across diverse sets of stakeholders. 
+
+I strongly advocate for customer centricity !!
+
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Core Competencies :
+
+• Software QA - SDLC | STLC, Selenium , Cucumber (BDD).
+• Unit Testing - JUnit, TestNG (TDD).
+• Performance Testing [Load | Pressure] - JMeter.
+• Mobile Testing [Appium] - iOS, Android & Windows]
+• API testing - Postman API & SoapUI
+• Core SWE - (Java, C#)
+• CI/CD Pipeline - Jenkins 
+• Build - Maven (mvn)
+• Containers Orchestration - Docker, Kubernetes
+• Microsoft pkgs [Excel, Powerpoint, Outlook, Word]
+• ML Algorithims
+• IaC - Terraform
+• Linux CLI
+• Cloud - AWS Beanstalk
+• SQL - PL/SQL | XAMPP
+• Slack | Zoom | JIRA
+• HTTP | XML | JSON
+• SSH - MobaXterm | SecureCRT
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Check out on GitHub : -
+https://github.com/EugeneGitonga
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Achievements🏆 : -
+
++ Won in 3rd place together with my team #Cosmo drome in the KRA's 1st technology Innovation Hackathon held in Jan 2022. 
 
 ## Connect with Me :
 <a href ="https://github.com/EugeneGitonga" >
