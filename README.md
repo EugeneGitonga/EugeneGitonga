@@ -35,11 +35,6 @@ Core Competencies :
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-Check out on GitHub : -
-https://github.com/EugeneGitonga
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
 Achievements🏆 : -
 
 * Won in 3rd place together with my team #Cosmo drome in the KRA's 1st technology Innovation Hackathon.
