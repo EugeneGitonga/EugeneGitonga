@@ -74,9 +74,10 @@ Achievements🏆 : -
 * Predicting Rainfall Through Weather Balloons Data and Machine Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
 
 ## Interests
-* Software QA Engineering
+* Software Engineering in Test.
+* Software QA Engineering.
 * Software Product Management
-* Industry 4.0 Technologies 
+* Industry 4.0 Technologies.
 
 ## Github Stats
 ![Eugene Github stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
