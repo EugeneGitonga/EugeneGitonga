@@ -14,24 +14,24 @@ I strongly advocate for customer centricity !!
 
 Core Competencies :
 
-• Software QA - SDLC | STLC, Selenium , Cucumber (BDD).
-• Unit Testing - JUnit, TestNG (TDD).
-• Performance Testing [Load | Pressure] - JMeter.
-• Mobile Testing [Appium] - iOS, Android & Windows]
-• API testing - Postman API & SoapUI
-• Core SWE - (Java, C#)
-• CI/CD Pipeline - Jenkins 
-• Build - Maven (mvn)
-• Containers Orchestration - Docker, Kubernetes
-• Microsoft pkgs [Excel, Powerpoint, Outlook, Word]
-• ML Algorithims
-• IaC - Terraform
-• Linux CLI
-• Cloud - AWS Beanstalk
-• SQL - PL/SQL | XAMPP
-• Slack | Zoom | JIRA
-• HTTP | XML | JSON
-• SSH - MobaXterm | SecureCRT
+* Software QA - SDLC | STLC, Selenium , Cucumber (BDD).
+* Unit Testing - JUnit, TestNG (TDD).
+* Performance Testing [Load | Pressure] - JMeter.
+* Mobile Testing [Appium] - iOS, Android & Windows]
+* API testing - Postman API & SoapUI
+* Core SWE - (Java, C#)
+* CI/CD Pipeline - Jenkins 
+* Build - Maven (mvn)
+* Containers Orchestration - Docker, Kubernetes
+* Microsoft pkgs [Excel, Powerpoint, Outlook, Word]
+* ML Algorithims
+* IaC - Terraform
+* Linux CLI
+* Cloud - AWS Beanstalk
+* SQL - PL/SQL | XAMPP
+* Slack | Zoom | JIRA
+* HTTP | XML | JSON
+* SSH - MobaXterm | SecureCRT
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -42,7 +42,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Achievements🏆 : -
 
-+ Won in 3rd place together with my team #Cosmo drome in the KRA's 1st technology Innovation Hackathon held in Jan 2022. 
+* Won in 3rd place together with my team #Cosmo drome in the KRA's 1st technology Innovation Hackathon.
 
 ## Connect with Me :
 <a href ="https://github.com/EugeneGitonga" >
