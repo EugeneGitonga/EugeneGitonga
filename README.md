@@ -39,7 +39,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Achievements🏆 : -
 
-* Won in 3rd place together with my team #Cosmo drome in the KRA's 1st technology Innovation Hackathon.
+* Won in 3rd place with my team #Cosmo drome in KRA's 1st technology Innovation Hackathon.
 
 ## Connect with Me :
 <a href ="https://github.com/EugeneGitonga" >
