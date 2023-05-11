@@ -23,7 +23,7 @@ Core Competencies :
 * Core SWE - (Java, C#)
 * CI/CD Pipeline - Jenkins 
 * Build - Maven (mvn)
-* Containers Orchestration - Docker, Kubernetes
+* Containers orchestration - Docker, Kubernetes
 * Microsoft pkgs [Excel, Powerpoint, Outlook, Word]
 * ML Algorithims
 * IaC - Terraform
