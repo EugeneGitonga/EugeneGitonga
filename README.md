@@ -21,7 +21,7 @@ Core Competencies :
 * Mobile Testing [Appium] - iOS, Android & Windows]
 * API testing - Postman API & SoapUI
 * Core SWE - (Java, C#)
-* CI/CD Pipeline - Jenkins 
+* CI/CD Pipelines - Jenkins 
 * Build - Maven (mvn)
 * GitHub
 * Containers orchestration - Docker, Kubernetes
