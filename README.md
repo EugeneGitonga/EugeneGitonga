@@ -15,8 +15,8 @@ I strongly advocate for customer centricity !!
 Core Competencies :
 
 * Software QA - SDLC & STLC.
-* Web Testing - Selenium , Cucumber(BDD).
-* Unit Testing - JUnit, TestNG(TDD).
+* Web Testing - Selenium , Cucumber (BDD).
+* Unit Testing - JUnit, TestNG (TDD).
 * Performance Testing [Load | Pressure] - JMeter.
 * Mobile Testing [Appium] - iOS, Android & Windows]
 * API testing - Postman API & SoapUI
