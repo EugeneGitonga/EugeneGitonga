@@ -12,7 +12,7 @@ Clearly define and ensure 𝐎𝐊𝐑’𝐬 (Objectives & Key Results), 𝐊�
 
 Core Competencies:
 
-Java | Spring Boot | InjelliJ | REST API | CI/CD - Jenkins | GitHub | Apache Kafka | Redis Cache | Web Testing (Selenium, Cucumber (BDD) | JUnit (TDD) | PT (JMeter & Google LightHouse) | API testing (Postman API) | HTTP, JSON | JWT | JIRA | Build (Maven) | Machine Learning | Docker | K8S | Linux | SQL | Slack | SSH (MobaXterm)
+Java | Spring Boot | InjelliJ | REST API | CI/CD (Jenkins) | GitHub | Apache Kafka | Redis Cache | Web Testing (Selenium, Cucumber (BDD) | JUnit (TDD) | PT (JMeter & Google LightHouse) | API testing (Postman API) | HTTP, JSON | JWT | JIRA | Build (Maven) | Machine Learning | Docker | K8S | Linux | SQL | Slack | SSH (MobaXterm)
 
 Others :
 
