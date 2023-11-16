@@ -51,9 +51,8 @@ Achievements🏆 : -
 ## Interests
 *  Microservice Development
 *  Machine Learning
-*  Product Management
-* Software Product Management
-* Industry 4.0 Technologies.
+*  Software Product Management
+*  Industry 4.0 Technologies.
 
 ## Github Stats
 ![Eugene Github stats](https://github-readme-stats.vercel.app/api?username=EugeneGitonga&show_icons=true&theme=radical)
