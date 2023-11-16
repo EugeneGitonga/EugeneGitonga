@@ -10,17 +10,18 @@ Clearly define and ensure 𝐎𝐊𝐑’𝐬 (Objectives & Key Results), 𝐊�
 
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-Core Competencies :
+Core Competencies:
 
-Java | Spring Boot | InjelliJ | REST API | CI/CD - Jenkins | GitHub | Apache Kafka | Redis Cache | Web Testing (Selenium, Cucumber (BDD) | JUnit (TDD) | PT (JMeter & Google LightHouse) | API testing (Postman API) | HTTP, JSON | JWT | JIRA | Build (Maven) | Machine Learning | Docker | K8S | Linux | SQL | Slack | SSH - MobaXterm
+Java | Spring Boot | InjelliJ | REST API | CI/CD - Jenkins | GitHub | Apache Kafka | Redis Cache | Web Testing (Selenium, Cucumber (BDD) | JUnit (TDD) | PT (JMeter & Google LightHouse) | API testing (Postman API) | HTTP, JSON | JWT | JIRA | Build (Maven) | Machine Learning | Docker | K8S | Linux | SQL | Slack | SSH (MobaXterm)
 
-Othera :
+Others :
+
 SCRUM | Collaboration | Negotiation | Presentation | Risk Management | SWOT Analysis | Team Servant leadership | Product Roadmap Execution | MVP | OKR’s & KPI Monitoring | A/B Testing | Data-Driven Market Research 
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Achievements🏆 : -
-* Conferred Six Sigma Rising Star Award by the Management & Strategy Institute (MSI).
+* Conferred the Six Sigma Rising Star Award by the Management & Strategy Institute (MSI).
 * 3rd place in KRA’s (Kenya Revenue Authority) first technology Innovation Hackathon held in Jan 2022
 
 ## Connect with Me :
@@ -50,6 +51,7 @@ Achievements🏆 : -
 
 ## Publications :
 * Predicting Rainfall Through Weather Balloons Data and Machine Learning.
+  
   https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
 
 ## Interests
