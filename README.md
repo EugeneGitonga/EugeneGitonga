@@ -46,7 +46,8 @@ Achievements🏆 : -
 <br/>
 
 ## Publications :
-* Predicting Rainfall Through Weather Balloons Data and Machine Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
+* Predicting Rainfall Through Weather Balloons Data and Machine Learning.
+  https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
 
 ## Interests
 *  Microservice Development
