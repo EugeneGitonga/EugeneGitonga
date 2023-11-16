@@ -2,44 +2,23 @@
 
 ![1676832599010](https://user-images.githubusercontent.com/70195777/229319128-f43918a6-194d-4b07-9db8-a438482f1a2f.jpg)
 
-Passionate about solving real-world problems in an efficient, analytical, reliable, strategic and scalable approach through cutting-edge 
+Passionate 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐞𝐫 & Champion of 𝐀𝐠𝐢𝐥𝐞 Methodologies as a new way of 𝐐𝐮𝐢𝐜𝐤 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 of 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐬 with 𝐥𝐞𝐬𝐬 𝐚𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞𝐝 𝐫𝐢𝐬𝐤𝐬 using 𝐛𝐞𝐬𝐭 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬. I have an eye for finer details. 
 
-Champion of agile methodologies as a new way of quick delivery of quality products using best practices. 
+Strive to build meaningful relationships within the business ecosystem to 𝐂𝐫𝐞𝐚𝐭𝐞 𝐯𝐚𝐥𝐮𝐞 & 𝐥𝐚𝐬𝐭𝐢𝐧𝐠 𝐂𝐡𝐚𝐧𝐠𝐞, through 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧𝐬 and 𝐏𝐚𝐫𝐭𝐧𝐞𝐫𝐬𝐡𝐢𝐩𝐬 across diverse sets of stakeholders. 
 
-Ultimately, strive to build meaningful relationships within the business ecosystem to create value and lasting change through collaborations and partnerships across diverse sets of stakeholders. 
-
-I strongly advocate for customer centricity !!
+Clearly define and ensure 𝐎𝐊𝐑’𝐬 (Objectives & Key Results), 𝐊𝐏𝐈’𝐬 are realized & the 𝐑𝐎𝐈 is maximized. Technology & business acumen also an advocate for 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐂𝐞𝐧𝐭𝐫𝐢𝐜𝐢𝐭𝐲.
 
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Core Competencies :
 
-* Software QA - SDLC & STLC.
-* Web Testing - Selenium , Cucumber (BDD).
-* Unit Testing - JUnit, TestNG (TDD).
-* Performance Testing [Load | Pressure] - JMeter.
-* Mobile Testing [Appium] - iOS, Android & Windows]
-* API testing - Postman API & SoapUI
-* Core SWE - (Java, C#)
-* CI/CD Pipelines - Jenkins 
-* Build - Maven (mvn)
-* GitHub
-* Containers orchestration - Docker, Kubernetes
-* ML Algorithims
-* IaC - Terraform
-* Linux CLI
-* Cloud - AWS Beanstalk
-* SQL - PL/SQL | XAMPP
-* Slack | Zoom | JIRA
-* HTTP | XML | JSON
-* SSH - MobaXterm | SecureCRT
-* Microsoft pkgs [Excel, Powerpoint, Outlook, Word]
+Java | Spring Boot | InjelliJ | REST API | CI/CD - Jenkins | GitHub | Apache Kafka | Redis Cache | Web Testing (Selenium, Cucumber (BDD) | JUnit (TDD) | PT (JMeter & Google LightHouse) | API testing (Postman API) | HTTP, JSON | JWT | JIRA | Build (Maven) | Machine Learning | Docker | K8S | Linux | SQL | Slack | SSH - MobaXterm
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Achievements🏆 : -
-
-* Won in 3rd place with my team #Cosmo drome in KRA's 1st technology Innovation Hackathon.
+* Conferred Six Sigma Rising Star Award by the Management & Strategy Institute (MSI).
+* 3rd place in KRA’s (Kenya Revenue Authority) first technology Innovation Hackathon held in Jan 2022
 
 ## Connect with Me :
 <a href ="https://github.com/EugeneGitonga" >
@@ -59,7 +38,6 @@ Achievements🏆 : -
 
 ## Languages And Technologies :
 <img align="left" alt="holisitc_developer | Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
-<img align="left" alt="CSharp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -71,8 +49,9 @@ Achievements🏆 : -
 * Predicting Rainfall Through Weather Balloons Data and Machine Learning.https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
 
 ## Interests
-* Software Engineering in Test.
-* Software Quality Assuarance.
+*  Microservice Development
+*  Machine Learning
+*  Product Management
 * Software Product Management
 * Industry 4.0 Technologies.
 
