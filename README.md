@@ -14,6 +14,9 @@ Core Competencies :
 
 Java | Spring Boot | InjelliJ | REST API | CI/CD - Jenkins | GitHub | Apache Kafka | Redis Cache | Web Testing (Selenium, Cucumber (BDD) | JUnit (TDD) | PT (JMeter & Google LightHouse) | API testing (Postman API) | HTTP, JSON | JWT | JIRA | Build (Maven) | Machine Learning | Docker | K8S | Linux | SQL | Slack | SSH - MobaXterm
 
+Othera :
+SCRUM | Collaboration | Negotiation | Presentation | Risk Management | SWOT Analysis | Team Servant leadership | Product Roadmap Execution | MVP | OKR’s & KPI Monitoring | A/B Testing | Data-Driven Market Research 
+
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Achievements🏆 : -
