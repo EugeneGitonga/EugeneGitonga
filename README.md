@@ -55,7 +55,7 @@ Achievements🏆 : -
   https://omdena.com/blog/weather-balloons-to-predict-rainfall/ 
 
 ## Interests
-*  Microservice Engineering
+*  Microservice Dev
 *  Software QA
 *  Machine Learning
 *  Industry 4.0 Technologies.
