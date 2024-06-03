@@ -20,10 +20,6 @@ SCRUM | Collaboration | Negotiation | Presentation | Risk Management | SWOT Anal
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-Achievements🏆 : -
-* Conferred the Six Sigma Rising Star Award by the Management & Strategy Institute (MSI).
-* 3rd place in KRA’s (Kenya Revenue Authority) first technology Innovation Hackathon held in Jan 2022
-
 ## Connect with Me :
 <a href ="https://github.com/EugeneGitonga" >
 <img align="left" alt="holisitc_developer | GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
